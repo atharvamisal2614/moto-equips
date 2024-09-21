@@ -10,7 +10,7 @@ function Icons() {
           Your Ultimate Biking Destination
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-gray-500">
-          Whether you're an avid cyclist or a weekend rider, our comprehensive range of bikes, accessories, and riding gear has everything you need for a perfect ride. From helmets and apparel to luggage for tours and spare parts, we offer high-quality products designed to enhance safety, comfort, and performance. Explore exclusive combos and trusted brands to elevate your biking experience. Get ready to ride with confidence and style!
+          Whether you are an avid cyclist or a weekend rider, our comprehensive range of bikes, accessories, and riding gear has everything you need for a perfect ride. From helmets and apparel to luggage for tours and spare parts, we offer high-quality products designed to enhance safety, comfort, and performance. Explore exclusive combos and trusted brands to elevate your biking experience. Get ready to ride with confidence and style!
           </p>
           <div className="flex mt-6 justify-center">
             <div className="w-16 h-1 rounded-full bg-gray-900 inline-flex"></div>

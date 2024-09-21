@@ -15,7 +15,7 @@ function Blog(){
           <div className="p-6">
 
             <h1 className="title-font text-lg font-medium text-gray-900 mb-3">KAWASAKI</h1>
-            <p className="leading-relaxed mb-3">Kawasaki accessories include high-performance exhausts, frame sliders, windshields, and custom seat options. Riders can also find protective gear, luggage systems, and other enhancements to make their ride more comfortable and functional, while still maintaining Kawasaki's signature sleek and aggressive look....</p>
+            <p className="leading-relaxed mb-3">Kawasaki accessories include high-performance exhausts, frame sliders, windshields, and custom seat options. Riders can also find protective gear, luggage systems, and other enhancements to make their ride more comfortable and functional, while still maintaining Kawasaki &apos; signature sleek and aggressive look....</p>
             <div className="flex items-center flex-wrap ">
               <a className="text-gray-800 inline-flex items-center md:mb-2 lg:mb-0">Learn More
                 <svg className="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round">
@@ -73,9 +73,7 @@ function Blog(){
           <div className="p-6">
             
             <h1 className="title-font text-lg font-medium text-gray-900 mb-3">YAMAHA</h1>
-            <p className="leading-relaxed mb-3">Yamaha accessories are versatile, catering to sport, touring, and off-road enthusiasts alike. Yamaha offers a wide variety of products, such as performance exhausts, handlebar grips, protective guards, and custom bodywork. Whether you're looking to enhance performance or improve comfort, Yamaha's accessories provide both style and functionality for every type of rider....
-
-.</p>
+            <p className="leading-relaxed mb-3">Yamaha accessories are versatile, catering to sport, touring, and off-road enthusiasts alike. Yamaha offers a wide variety of products, such as performance exhausts, handlebar grips, protective guards, and custom bodywork. Whether you are looking to enhance performance or improve comfort, Yamaha &apos; accessories provide both style and functionality for every type of rider.....</p>
             <div className="flex items-center flex-wrap ">
               <a className="text-gray-800 inline-flex items-center md:mb-2 lg:mb-0">Learn More
                 <svg className="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round">

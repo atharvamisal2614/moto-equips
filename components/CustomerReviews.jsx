@@ -26,9 +26,9 @@ function CustomerReviews() {
               </svg>
               <p className="leading-relaxed mb-6">
                 I recently purchased a set of Kawasaki crash guards and
-                saddlebags from this site, and I couldn't be more impressed! The
+                saddlebags from this site, and I could not be more impressed! The
                 quality is outstanding, and the installation was super easy,
-                even for someone like me who's not particularly handy. The crash
+                even for someone like me who is not particularly handy. The crash
                 guards have already saved my bike once during a low-speed fall,
                 and the saddlebags are perfect for weekend trips. Highly
                 recommend this site for any bike accessories you need!
@@ -67,7 +67,7 @@ function CustomerReviews() {
                 I ordered a BMW top case and a touring windshield for my
                 long-distance trips, and the difference is night and day. The
                 top case is spacious and fits perfectly, with a sleek design
-                that complements my bike's look. The windshield has greatly
+                that complements my bike&apos; look. The windshield has greatly
                 reduced wind noise and fatigue on those long rides. Amazing
                 customer service too—my order arrived ahead of schedule!
                 Definitely my go-to for all future bike accessory purchases.
